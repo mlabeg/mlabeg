@@ -1,8 +1,6 @@
-### Hi there 👋
-
-### Hello World ?
+### Hello World 
 I am a junior C++ developer, who's looking for first commercial expirience. <br>
-Currently studying in Warsaw School Of Computer Science. <br>
+Currently studying in Warsaw School Of Computer Science.
 
 <br>## Connect with me ##<br><br>
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mateusz-gebal/)
