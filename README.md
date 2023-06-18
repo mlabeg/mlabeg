@@ -1,5 +1,5 @@
 ### Hello World 
-I am a Junior C++ Developer, looking for first commercial experience. <br>
+I am aspiring Junior C# Developer, looking for first commercial experience. <br>
 Currently studying in Warsaw School Of Computer Science.
 
 ## Connect with me <br>
