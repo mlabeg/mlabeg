@@ -1,6 +1,8 @@
 ### Hello World 
-I am aspiring Junior C# Developer, looking for first commercial experience. <br>
-Currently studying in Warsaw School Of Computer Science.
+I am aspiring Junior .NET Developer, looking for first commercial experience. <br>
+Currently studying in Warsaw School Of Computer Science. <br>
+Right now I'm working on my thesis project - digital version of DJ mixer RANE 62.
+
 
 ## Connect with me <br>
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mateusz-gebal/)
